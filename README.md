@@ -1,6 +1,6 @@
 # Speech Understanding PA1 - Question 1
 
-**Author:** Shreya Pandey and Princu Singh
+**Author:** Shreya Pandey(M24CSA030) and Princu Singh(M24CSA024)
 
 
 This repository contains the solution for Question 1 of the Speech Understanding PA1.  It includes the following files:
